@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PREFERENCES_ID" translatable="false">com.doublew.snowballfight.game</string>
+    <string name="IS_THERE_SAVED_GAME" translatable="false">saved_game</string>
+    <string name="SOUND_STATE" translatable="false">sound</string>
+    <string name="VIBRATION_STATE" translatable="false">vibration</string>
+    <string name="SIMPLE_CONTROL_STATE" translatable="false">simple_control</string>
+    <string name="ITEM_PREFERENCES" translatable="false">items</string>
+    <string name="GOLD_PREFERENCES" translatable="false">gold</string>
+    <string name="MANA_PREFERENCES" translatable="false">mana</string>
+    <string name="STAGE1_PREFERENCE" translatable="false">stage1</string>
+    <string name="STAGE2_PREFERENCE" translatable="false">stage2</string>
+    <string name="STAGE3_PREFERENCE" translatable="false">stage3</string>
+    <string name="STAGE4_PREFERENCE" translatable="false">stage4</string>
+    <string name="STAGE1_LEVELS_PREFERENCE" translatable="false">levels1</string>
+    <string name="STAGE2_LEVELS_PREFERENCE" translatable="false">levels2</string>
+    <string name="STAGE3_LEVELS_PREFERENCE" translatable="false">levels3</string>
+    <string name="STAGE4_LEVELS_PREFERENCE" translatable="false">levels4</string>
+    <string name="SAVED_HP" translatable="false">saved_hp</string>
+    <string name="ABORTED_STAGE" translatable="false">aborted</string>
+</resources>

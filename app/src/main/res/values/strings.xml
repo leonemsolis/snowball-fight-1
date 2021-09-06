@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">The SnowBall Fight: Remastered</string>
+    <string name="title" translatable="true">The Snowball Fight: Remastered</string>
+    <string name="play_button_text" translatable="true">Play!</string>
+    <string name="settings_button_text" translatable="true">Settings</string>
+    <string name="rate_button_text" translatable="true">Rate</string>
+    <string name="help_button_text" translatable="true">Help</string>
+    <string name="sound_switch_text" translatable="true">Sound</string>
+    <string name="vibration_switch_text" translatable="true">Vibration</string>
+    <string name="switch_on_state" translatable="true">On</string>
+    <string name="switch_off_state" translatable="true">Off</string>
+    <string name="continue_text" translatable="true">Continue?</string>
+    <string name="update_text" translatable="true">New version available, get it now?</string>
+    <string name="continue_answer_yes" translatable="true">Yes</string>
+    <string name="continue_answer_no" translatable="true">No</string>
+    <string name="victory" translatable="true">You\'re the best!</string>
+    <string name="help_1" translatable="true">\tTo move on the map, swipe in the direction you need.\n\tYou can enter stores or schools.\n\tRest of the schools will be available as soon as you beat 4 levels at the current school.\n\tIf you escape the battle, then you can\'t enter either another school or store.</string>
+    <string name="help_2" translatable="true">\tYou need some gold in order to purchase item.\n\tThere are two kind of stores. \n\n1) Drug store, where you can purchase:\n1. bandage - restores 30 hit points.\n2. pill - restores 1 mana.\n3. roller-bandage - fully restores your hit points.\n4. potion - doubles your damage by 2 till the end of the round.\n\n2) Item store, where you can purchase: \n1. boot - your next attack makes enemy drowsy. (Enemy can not shoot)\n2. boulder - your next attack deals doubled damage. \n3. ice shard - your next attack freezes enemy. \n4. icicle - your next attack deals double damage and freezes enemy.</string>
+    <string name="help_3" translatable="true">\tYou can control your character by pressing on the left, right or center part of the screen. Pressing on the left or on the right will make character move left or right. By pressing center, character will start to gain power. By pressing center again character will throw snowball. (Distance depends on the power)\n\tYou can open backpack to use purchased items or to use your special ability. It\'ll also pause the game.\n\tIn order to open backpack, just click on the top UI-bar. To use item, just click this item. To use special ability click bottom part of the backpack. \n\t Special ability depends on your mana: \nIf you have 1 mana, ability will damage all your opponents, and make them drowsy. \nIf you have 2, ability will damage and freeze all of your opponents. \nIf you have 3, ability will deal double damage, and freeze all opponents.\n\tWhen you complete the level, you will acquire some gold. \n\tRound ends when there is no opponents left. Do not let them down you!\n\tIf you escape the battle, then your hp will not recover when you enter this stage again.</string>
+    <string name="help_4_1" translatable="true">Have any questions?</string>
+    <string name="help_4_2" translatable="true">Write an email</string>
+    <string name="finish_alert" translatable="true">Finish school #</string>
+    <string name="gold_acquired" translatable="true">gold acquired!</string>
+    <string name="not_enough_gold" translatable="true">Not enough gold</string>
+    <string name="bag_is_full" translatable="true">Bag is full</string>
+    <string name="duplicate_item" translatable="true">Duplicate item</string>
+    <string name="bought_item" translatable="true">You bought item!</string>
+    <string name="want_to_buy" translatable="true">Want to buy this item?</string>
+    <string name="want_to_exit" translatable="true">Want to exit?</string>
+    <string name="enter_stage" translatable="true">Enter school</string>
+    <string name="enter_drug" translatable="true">Enter drug store?</string>
+    <string name="enter_item" translatable="true">Enter item store?</string>
+    <string name="western" translatable="true">Western Boys</string>
+    <string name="southern" translatable="true">Southern Boys</string>
+    <string name="northern" translatable="true">Northern Boys</string>
+    <string name="challenged" translatable="true">challenged you!!</string>
+    <string name="rate_about_me" translatable="true">Hi there! I\'m Ruslan, the developer of this game. Thanks for downloading! I\'m indie developer and I would appreciate if you rate my game. \nAlso if there is something that you don\'t like or have some ideas about gameplay or something else, I would be pleased to read your comment, or you can text me via e-mail (which you can find in \"Help\" section). \nOh! One more thing, there is another game that I made, and I think that you will like it ;)</string>
+</resources>
